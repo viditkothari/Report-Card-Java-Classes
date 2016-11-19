@@ -23,5 +23,6 @@ public class MainClass {
         
 	// Printing the Report card for Student 's1' by simply printing the ReportCard object with Overridden .toString() method
         System.out.print(rc1.toString());
+        System.out.print(rc1.getResult());
     }
 }
